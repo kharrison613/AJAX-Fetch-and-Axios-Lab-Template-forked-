@@ -1,0 +1,21 @@
+"results": [
+    {
+      "gender": "<span>female</span>",
+      "name": {
+        "title": "<span>Miss</span>",
+        "first": "<span>Jennie</span>",
+        "last": "<span>Nichols</span>"
+      },
+      "location": {
+        "street": {
+          "number": <span>8929</span>,
+          "name": "<span>Valwood Pkwy</span>",
+        },
+        "city": "<span>Billings</span>",
+        "state": "<span>Michigan</span>",
+        "country": "<span>United States</span>",
+        "postcode": "<span>63104</span>",
+        "coordinates": {
+          "latitude": "<span>-69.8246</span>",
+          "longitude": "<span>134.8719</span>"
+        }
